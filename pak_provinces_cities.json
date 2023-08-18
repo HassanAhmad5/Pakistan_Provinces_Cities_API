@@ -1,1481 +1,1265 @@
-{
-    "data":
-    [
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "1",
-            "City": "Quetta"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "2",
-            "City": "Turbat"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "3",
-            "City": "Kech"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "4",
-            "City": "Makran"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "5",
-            "City": "Khuzdar"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "6",
-            "City": "Qalat"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "7",
-            "City": "Hub"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "8",
-            "City": "Chaman"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "9",
-            "City": "Chaman District"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "10",
-            "City": "Dera Murad Jamali"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "11",
-            "City": "Nasirabad"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "12",
-            "City": "Gwadar"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "13",
-            "City": "Dera Allah Yar"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "14",
-            "City": "Jaffarabad"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "15",
-            "City": "Usta Mohammad"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "16",
-            "City": "Sui Town"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "17",
-            "City": "Dera Bugti"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "18",
-            "City": "Sibi"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "19",
-            "City": "Loralai"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "20",
-            "City": "Zhob"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "21",
-            "City": "Tump"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "22",
-            "City": "Nushki"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "23",
-            "City": "Rakhshan"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "24",
-            "City": "Kharan"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "25",
-            "City": "Chitkan"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "26",
-            "City": "Panjgur"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "27",
-            "City": "Khanozai"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "28",
-            "City": "Pishin"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "29",
-            "City": "Buleda"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "30",
-            "City": "Saranan"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "31",
-            "City": "Zehri"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "32",
-            "City": "Tasp"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "33",
-            "City": "Surab"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "34",
-            "City": "Shaheed Sikandarabad"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "35",
-            "City": "Mastung"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "36",
-            "City": "Qilla Saifullah"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "37",
-            "City": "Pasni"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "38",
-            "City": "Nal"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "39",
-            "City": "Winder"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "40",
-            "City": "Lasbela"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "41",
-            "City": "Uthal"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "42",
-            "City": "Huramzai"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "43",
-            "City": "Muslim Bagh"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "44",
-            "City": "Qilla Abdullah"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "45",
-            "City": "Qila Abdullah"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "46",
-            "City": "Bela"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "47",
-            "City": "Wadh"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "48",
-            "City": "Washuk"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "49",
-            "City": "Awaran"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "50",
-            "City": "Machh"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "51",
-            "City": "Kachhi"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "52",
-            "City": "Jiwani"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "53",
-            "City": "Ormara"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "54",
-            "City": "Kohlu"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "55",
-            "City": "Bhag"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "56",
-            "City": "Dalbandin"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "57",
-            "City": "Chagai"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "58",
-            "City": "Dhadar"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "59",
-            "City": "Musakhel"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "60",
-            "City": "Harnai"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "61",
-            "City": "Dureji"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "62",
-            "City": "Sohbatpur"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "63",
-            "City": "Gajjar Mashkay"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "64",
-            "City": "Barkhan"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "65",
-            "City": "Shahrug"
-        },
-        {
-            "ProvinceId": "1",
-            "Province": "Balochistan",
-            "CityId": "66",
-            "City": "Duki"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "1",
-            "City": "Lahore"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "2",
-            "City": "Faisalabad"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "3",
-            "City": "Rawalpindi"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "4",
-            "City": "Gujranwala"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "5",
-            "City": "Multan"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "6",
-            "City": "Bahawalpur"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "7",
-            "City": "Sargodha"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "8",
-            "City": "Sialkot"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "9",
-            "City": "Sheikhupura"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "10",
-            "City": "Rahim Yar Khan"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "11",
-            "City": "Jhang"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "12",
-            "City": "Dera Ghazi Khan"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "13",
-            "City": "Gujrat"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "14",
-            "City": "Sahiwal"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "15",
-            "City": "Wah Cantonment"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "16",
-            "City": "Kasur"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "17",
-            "City": "Okara"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "18",
-            "City": "Chiniot"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "19",
-            "City": "Kamoke"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "20",
-            "City": "Hafizabad"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "21",
-            "City": "Sadiqabad"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "22",
-            "City": "Burewala"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "23",
-            "City": "Khanewal"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "24",
-            "City": "Muzaffargarh"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "25",
-            "City": "Mandi Bahauddin"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "26",
-            "City": "Jhelum"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "27",
-            "City": "Khanpur"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "28",
-            "City": "Pakpattan"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "29",
-            "City": "Daska"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "30",
-            "City": "Gojra"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "31",
-            "City": "Muridke"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "32",
-            "City": "Bahawalnagar"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "33",
-            "City": "Samundri"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "34",
-            "City": "Jaranwala"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "35",
-            "City": "Chishtian"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "36",
-            "City": "Attock"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "37",
-            "City": "Vehari"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "38",
-            "City": "Kot Abdul Malik"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "39",
-            "City": "Ferozewala"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "40",
-            "City": "Chakwal"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "41",
-            "City": "Gujranwala Cantonment"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "42",
-            "City": "Kamalia"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "43",
-            "City": "Ahmedpur East"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "44",
-            "City": "Kot Addu"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "45",
-            "City": "Wazirabad"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "46",
-            "City": "Layyah"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "47",
-            "City": "Taxila"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "48",
-            "City": "Khushab"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "49",
-            "City": "Mianwali"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "50",
-            "City": "Lodhran"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "51",
-            "City": "Hasilpur"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "52",
-            "City": "Bhakkar"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "53",
-            "City": "Arif Wala"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "54",
-            "City": "Sambrial"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "55",
-            "City": "Jatoi"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "56",
-            "City": "Haroonabad"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "57",
-            "City": "Narowal"
-        },
-        {
-            "ProvinceId": "2",
-            "Province": "Punjab",
-            "CityId": "58",
-            "City": "Bhalwal"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "1",
-            "City": "Karachi"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "2",
-            "City": "Hyderabad"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "3",
-            "City": "Sukkur"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "4",
-            "City": "Larkana"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "5",
-            "City": "Nawabshah"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "6",
-            "City": "Kotri"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "7",
-            "City": "Mirpur Khas"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "8",
-            "City": "Shikarpur"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "9",
-            "City": "Jacobabad"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "10",
-            "City": "Khairpur"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "11",
-            "City": "Dadu"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "12",
-            "City": "Tando Allahyar"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "13",
-            "City": "Tando Adam Khan"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "14",
-            "City": "Umerkot"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "15",
-            "City": "Shahdadkot"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "16",
-            "City": "Badin"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "17",
-            "City": "Ghotki"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "18",
-            "City": "Daharki"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "19",
-            "City": "Tando Muhammad Khan"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "20",
-            "City": "Kamber Ali Khan"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "21",
-            "City": "Mirpur Mathelo"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "22",
-            "City": "Kandhkot"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "23",
-            "City": "Shahdadpur"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "24",
-            "City": "Moro"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "25",
-            "City": "Tando Jam"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "26",
-            "City": "Pano Akil"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "27",
-            "City": "Sanghar"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "28",
-            "City": "Thul"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "29",
-            "City": "Rohri"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "30",
-            "City": "Ratodero"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "31",
-            "City": "Sehwan Sharif"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "32",
-            "City": "Hala"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "33",
-            "City": "Sakrand"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "34",
-            "City": "Matli"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "35",
-            "City": "Kashmore"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "36",
-            "City": "Mehar"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "37",
-            "City": "Thatta"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "38",
-            "City": "Mehrabpur"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "39",
-            "City": "Gambat"
-        },
-        {
-            "ProvinceId": "3",
-            "Province": "Sindh",
-            "CityId": "40",
-            "City": "Khipro"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "1",
-            "City": "Peshawar"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "2",
-            "City": "Mardan"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "3",
-            "City": "Malakand"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "4",
-            "City": "Swat"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "5",
-            "City": "Mingora"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "6",
-            "City": "Kohat"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "7",
-            "City": "Dera Ismail Khan"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "8",
-            "City": "Hazara"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "9",
-            "City": "Abbottabad"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "10",
-            "City": "Mansehra"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "11",
-            "City": "Swabi"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "12",
-            "City": "Nowshera"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "13",
-            "City": "Kabal"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "14",
-            "City": "Charsadda"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "15",
-            "City": "Barikot"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "16",
-            "City": "Shabqadar"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "17",
-            "City": "Haripur"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "18",
-            "City": "Takht-I-Bahi"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "19",
-            "City": "Paharpur"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "20",
-            "City": "Batkhela"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "21",
-            "City": "Khyber"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "22",
-            "City": "Jamrud"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "23",
-            "City": "Bahrain"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "24",
-            "City": "Bannu"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "25",
-            "City": "Lakki Marwat"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "26",
-            "City": "Pabbi"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "27",
-            "City": "Topi"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "28",
-            "City": "Jehangira"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "29",
-            "City": "Karak"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "30",
-            "City": "Lower Chitral"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "31",
-            "City": "Chitral"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "32",
-            "City": "Hangu"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "33",
-            "City": "Havelian"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "34",
-            "City": "Khwazakhela"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "35",
-            "City": "Khalabat"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "36",
-            "City": "Tank"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "37",
-            "City": "Upper Dir"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "38",
-            "City": "Dir"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "39",
-            "City": "Matta"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "40",
-            "City": "Tordher"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "41",
-            "City": "Lower Dir"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "42",
-            "City": "Timargara"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "43",
-            "City": "Paroa"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "44",
-            "City": "Amangarh"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "45",
-            "City": "Risalpur"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "46",
-            "City": "Nawan Shehr"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "47",
-            "City": "Kurram"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "48",
-            "City": "Sadda"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "49",
-            "City": "Landi Kotal"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "50",
-            "City": "Tangi"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "51",
-            "City": "Akora Khattak"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "52",
-            "City": "Tall"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "53",
-            "City": "Zaida"
-        },
-        {
-            "ProvinceId": "4",
-            "Province": "KPK",
-            "CityId": "54",
-            "City": "Utmanzai"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "1",
-            "City": "Gilgit"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "2",
-            "City": "Skardu"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "3",
-            "City": "Baltistan"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "4",
-            "City": "Khaplu"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "5",
-            "City": "Ghanche"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "6",
-            "City": "Dambudas"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "7",
-            "City": "Roundu"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "8",
-            "City": "Tolti"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "9",
-            "City": "Kharmang"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "10",
-            "City": "Eidghah"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "11",
-            "City": "Astore"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "12",
-            "City": "Diamer"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "13",
-            "City": "Shigar"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "14",
-            "City": "Nagarkhas"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "15",
-            "City": "Nagar"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "16",
-            "City": "Ishkoman"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "17",
-            "City": "Gupis-Yasin"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "18",
-            "City": "Juglot"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "19",
-            "City": "Danyor"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "20",
-            "City": "Karimabad"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "21",
-            "City": "Hunza"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "22",
-            "City": "Aliabad"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "23",
-            "City": "Chilas"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "24",
-            "City": "Gahkuch"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "25",
-            "City": "Ghizer"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "26",
-            "City": "Tangir"
-        },
-        {
-            "ProvinceId": "5",
-            "Province": "Gilgit-Baltistan",
-            "CityId": "27",
-            "City": "Darel"
-        },
-        {
-            "ProvinceId": "6",
-            "Province": "Federal",
-            "CityId": "1",
-            "City": "Islamabad"
-        }
-    ]
-}
+
+[
+    {
+        "province": [
+            {
+                "ProvinceId": "1",
+                "Province": "Balochistan",
+                "cities": [
+                    {
+                        "CityId": "1",
+                        "City": "Quetta"
+                    },
+                    {
+                        "CityId": "1",
+                        "City": "Quetta"
+                    },
+                    {
+                        "CityId": "2",
+                        "City": "Turbat"
+                    },
+                    {
+                        "CityId": "3",
+                        "City": "Kech"
+                    },
+                    {
+                        "CityId": "4",
+                        "City": "Makran"
+                    },
+                    {
+                        "CityId": "5",
+                        "City": "Khuzdar"
+                    },
+                    {
+                        "CityId": "6",
+                        "City": "Qalat"
+                    },
+                    {
+                        "CityId": "7",
+                        "City": "Hub"
+                    },
+                    {
+                        "CityId": "8",
+                        "City": "Chaman"
+                    },
+                    {
+                        "CityId": "9",
+                        "City": "Chaman District"
+                    },
+                    {
+                        "CityId": "10",
+                        "City": "Dera Murad Jamali"
+                    },
+                    {
+                        "CityId": "11",
+                        "City": "Nasirabad"
+                    },
+                    {
+                        "CityId": "12",
+                        "City": "Gwadar"
+                    },
+                    {
+                        "CityId": "13",
+                        "City": "Dera Allah Yar"
+                    },
+                    {
+                        "CityId": "14",
+                        "City": "Jaffarabad"
+                    },
+                    {
+                        "CityId": "15",
+                        "City": "Usta Mohammad"
+                    },
+                    {
+                        "CityId": "16",
+                        "City": "Sui Town"
+                    },
+                    {
+
+                        "CityId": "17",
+                        "City": "Dera Bugti"
+                    },
+                    {
+
+                        "CityId": "18",
+                        "City": "Sibi"
+                    },
+                    {
+
+                        "CityId": "19",
+                        "City": "Loralai"
+                    },
+                    {
+
+                        "CityId": "20",
+                        "City": "Zhob"
+                    },
+                    {
+
+                        "CityId": "21",
+                        "City": "Tump"
+                    },
+                    {
+
+                        "CityId": "22",
+                        "City": "Nushki"
+                    },
+                    {
+
+                        "CityId": "23",
+                        "City": "Rakhshan"
+                    },
+                    {
+
+                        "CityId": "24",
+                        "City": "Kharan"
+                    },
+                    {
+
+                        "CityId": "25",
+                        "City": "Chitkan"
+                    },
+                    {
+
+                        "CityId": "26",
+                        "City": "Panjgur"
+                    },
+                    {
+
+                        "CityId": "27",
+                        "City": "Khanozai"
+                    },
+                    {
+
+                        "CityId": "28",
+                        "City": "Pishin"
+                    },
+                    {
+
+                        "CityId": "29",
+                        "City": "Buleda"
+                    },
+                    {
+
+                        "CityId": "30",
+                        "City": "Saranan"
+                    },
+                    {
+
+                        "CityId": "31",
+                        "City": "Zehri"
+                    },
+                    {
+
+                        "CityId": "32",
+                        "City": "Tasp"
+                    },
+                    {
+
+                        "CityId": "33",
+                        "City": "Surab"
+                    },
+                    {
+
+                        "CityId": "34",
+                        "City": "Shaheed Sikandarabad"
+                    },
+                    {
+
+                        "CityId": "35",
+                        "City": "Mastung"
+                    },
+                    {
+
+                        "CityId": "36",
+                        "City": "Qilla Saifullah"
+                    },
+                    {
+
+                        "CityId": "37",
+                        "City": "Pasni"
+                    },
+                    {
+
+                        "CityId": "38",
+                        "City": "Nal"
+                    },
+                    {
+
+                        "CityId": "39",
+                        "City": "Winder"
+                    },
+                    {
+
+                        "CityId": "40",
+                        "City": "Lasbela"
+                    },
+                    {
+
+                        "CityId": "41",
+                        "City": "Uthal"
+                    },
+                    {
+
+                        "CityId": "42",
+                        "City": "Huramzai"
+                    },
+                    {
+
+                        "CityId": "43",
+                        "City": "Muslim Bagh"
+                    },
+                    {
+
+                        "CityId": "44",
+                        "City": "Qilla Abdullah"
+                    },
+                    {
+
+                        "CityId": "45",
+                        "City": "Qila Abdullah"
+                    },
+                    {
+
+                        "CityId": "46",
+                        "City": "Bela"
+                    },
+                    {
+
+                        "CityId": "47",
+                        "City": "Wadh"
+                    },
+                    {
+
+                        "CityId": "48",
+                        "City": "Washuk"
+                    },
+                    {
+
+                        "CityId": "49",
+                        "City": "Awaran"
+                    },
+                    {
+
+                        "CityId": "50",
+                        "City": "Machh"
+                    },
+                    {
+
+                        "CityId": "51",
+                        "City": "Kachhi"
+                    },
+                    {
+
+                        "CityId": "52",
+                        "City": "Jiwani"
+                    },
+                    {
+
+                        "CityId": "53",
+                        "City": "Ormara"
+                    },
+                    {
+
+                        "CityId": "54",
+                        "City": "Kohlu"
+                    },
+                    {
+
+                        "CityId": "55",
+                        "City": "Bhag"
+                    },
+                    {
+
+                        "CityId": "56",
+                        "City": "Dalbandin"
+                    },
+                    {
+
+                        "CityId": "57",
+                        "City": "Chagai"
+                    },
+                    {
+
+                        "CityId": "58",
+                        "City": "Dhadar"
+                    },
+                    {
+
+                        "CityId": "59",
+                        "City": "Musakhel"
+                    },
+                    {
+
+                        "CityId": "60",
+                        "City": "Harnai"
+                    },
+                    {
+
+                        "CityId": "61",
+                        "City": "Dureji"
+                    },
+                    {
+
+                        "CityId": "62",
+                        "City": "Sohbatpur"
+                    },
+                    {
+
+                        "CityId": "63",
+                        "City": "Gajjar Mashkay"
+                    },
+                    {
+
+                        "CityId": "64",
+                        "City": "Barkhan"
+                    },
+                    {
+
+                        "CityId": "65",
+                        "City": "Shahrug"
+                    },
+                    {
+
+                        "CityId": "66",
+                        "City": "Duki"
+                    }
+                ]
+            },
+            {
+                "ProvinceId": "2",
+                "Province": "Punjab",
+                "cities": [
+
+                    {
+
+                        "CityId": "1",
+                        "City": "Lahore"
+                    },
+                    {
+
+                        "CityId": "2",
+                        "City": "Faisalabad"
+                    },
+                    {
+
+                        "CityId": "3",
+                        "City": "Rawalpindi"
+                    },
+                    {
+
+                        "CityId": "4",
+                        "City": "Gujranwala"
+                    },
+                    {
+
+                        "CityId": "5",
+                        "City": "Multan"
+                    },
+                    {
+
+                        "CityId": "6",
+                        "City": "Bahawalpur"
+                    },
+                    {
+
+                        "CityId": "7",
+                        "City": "Sargodha"
+                    },
+                    {
+
+                        "CityId": "8",
+                        "City": "Sialkot"
+                    },
+                    {
+
+                        "CityId": "9",
+                        "City": "Sheikhupura"
+                    },
+                    {
+
+                        "CityId": "10",
+                        "City": "Rahim Yar Khan"
+                    },
+                    {
+
+                        "CityId": "11",
+                        "City": "Jhang"
+                    },
+                    {
+
+                        "CityId": "12",
+                        "City": "Dera Ghazi Khan"
+                    },
+                    {
+
+                        "CityId": "13",
+                        "City": "Gujrat"
+                    },
+                    {
+
+                        "CityId": "14",
+                        "City": "Sahiwal"
+                    },
+                    {
+
+                        "CityId": "15",
+                        "City": "Wah Cantonment"
+                    },
+                    {
+
+                        "CityId": "16",
+                        "City": "Kasur"
+                    },
+                    {
+
+                        "CityId": "17",
+                        "City": "Okara"
+                    },
+                    {
+
+                        "CityId": "18",
+                        "City": "Chiniot"
+                    },
+                    {
+
+                        "CityId": "19",
+                        "City": "Kamoke"
+                    },
+                    {
+
+                        "CityId": "20",
+                        "City": "Hafizabad"
+                    },
+                    {
+
+                        "CityId": "21",
+                        "City": "Sadiqabad"
+                    },
+                    {
+
+                        "CityId": "22",
+                        "City": "Burewala"
+                    },
+                    {
+
+                        "CityId": "23",
+                        "City": "Khanewal"
+                    },
+                    {
+
+                        "CityId": "24",
+                        "City": "Muzaffargarh"
+                    },
+                    {
+
+                        "CityId": "25",
+                        "City": "Mandi Bahauddin"
+                    },
+                    {
+
+                        "CityId": "26",
+                        "City": "Jhelum"
+                    },
+                    {
+
+                        "CityId": "27",
+                        "City": "Khanpur"
+                    },
+                    {
+
+                        "CityId": "28",
+                        "City": "Pakpattan"
+                    },
+                    {
+
+                        "CityId": "29",
+                        "City": "Daska"
+                    },
+                    {
+
+                        "CityId": "30",
+                        "City": "Gojra"
+                    },
+                    {
+
+                        "CityId": "31",
+                        "City": "Muridke"
+                    },
+                    {
+
+                        "CityId": "32",
+                        "City": "Bahawalnagar"
+                    },
+                    {
+
+                        "CityId": "33",
+                        "City": "Samundri"
+                    },
+                    {
+
+                        "CityId": "34",
+                        "City": "Jaranwala"
+                    },
+                    {
+
+                        "CityId": "35",
+                        "City": "Chishtian"
+                    },
+                    {
+
+                        "CityId": "36",
+                        "City": "Attock"
+                    },
+                    {
+
+                        "CityId": "37",
+                        "City": "Vehari"
+                    },
+                    {
+
+                        "CityId": "38",
+                        "City": "Kot Abdul Malik"
+                    },
+                    {
+
+                        "CityId": "39",
+                        "City": "Ferozewala"
+                    },
+                    {
+
+                        "CityId": "40",
+                        "City": "Chakwal"
+                    },
+                    {
+
+                        "CityId": "41",
+                        "City": "Gujranwala Cantonment"
+                    },
+                    {
+
+                        "CityId": "42",
+                        "City": "Kamalia"
+                    },
+                    {
+
+                        "CityId": "43",
+                        "City": "Ahmedpur East"
+                    },
+                    {
+
+                        "CityId": "44",
+                        "City": "Kot Addu"
+                    },
+                    {
+
+                        "CityId": "45",
+                        "City": "Wazirabad"
+                    },
+                    {
+
+                        "CityId": "46",
+                        "City": "Layyah"
+                    },
+                    {
+
+                        "CityId": "47",
+                        "City": "Taxila"
+                    },
+                    {
+
+                        "CityId": "48",
+                        "City": "Khushab"
+                    },
+                    {
+
+                        "CityId": "49",
+                        "City": "Mianwali"
+                    },
+                    {
+
+                        "CityId": "50",
+                        "City": "Lodhran"
+                    },
+                    {
+
+                        "CityId": "51",
+                        "City": "Hasilpur"
+                    },
+                    {
+
+                        "CityId": "52",
+                        "City": "Bhakkar"
+                    },
+                    {
+
+                        "CityId": "53",
+                        "City": "Arif Wala"
+                    },
+                    {
+
+                        "CityId": "54",
+                        "City": "Sambrial"
+                    },
+                    {
+
+                        "CityId": "55",
+                        "City": "Jatoi"
+                    },
+                    {
+
+                        "CityId": "56",
+                        "City": "Haroonabad"
+                    },
+                    {
+
+                        "CityId": "57",
+                        "City": "Narowal"
+                    },
+                    {
+
+                        "CityId": "58",
+                        "City": "Bhalwal"
+                    }
+                ]
+            },
+            {
+                "ProvinceId": "3",
+                "Province": "Sindh",
+
+                "cities": [
+                    {
+
+                        "CityId": "1",
+                        "City": "Karachi"
+                    },
+                    {
+
+                        "CityId": "2",
+                        "City": "Hyderabad"
+                    },
+                    {
+
+                        "CityId": "3",
+                        "City": "Sukkur"
+                    },
+                    {
+
+                        "CityId": "4",
+                        "City": "Larkana"
+                    },
+                    {
+
+                        "CityId": "5",
+                        "City": "Nawabshah"
+                    },
+                    {
+
+                        "CityId": "6",
+                        "City": "Kotri"
+                    },
+                    {
+
+                        "CityId": "7",
+                        "City": "Mirpur Khas"
+                    },
+                    {
+
+                        "CityId": "8",
+                        "City": "Shikarpur"
+                    },
+                    {
+
+                        "CityId": "9",
+                        "City": "Jacobabad"
+                    },
+                    {
+
+                        "CityId": "10",
+                        "City": "Khairpur"
+                    },
+                    {
+
+                        "CityId": "11",
+                        "City": "Dadu"
+                    },
+                    {
+
+                        "CityId": "12",
+                        "City": "Tando Allahyar"
+                    },
+                    {
+
+                        "CityId": "13",
+                        "City": "Tando Adam Khan"
+                    },
+                    {
+
+                        "CityId": "14",
+                        "City": "Umerkot"
+                    },
+                    {
+
+                        "CityId": "15",
+                        "City": "Shahdadkot"
+                    },
+                    {
+
+                        "CityId": "16",
+                        "City": "Badin"
+                    },
+                    {
+
+                        "CityId": "17",
+                        "City": "Ghotki"
+                    },
+                    {
+
+                        "CityId": "18",
+                        "City": "Daharki"
+                    },
+                    {
+
+                        "CityId": "19",
+                        "City": "Tando Muhammad Khan"
+                    },
+                    {
+
+                        "CityId": "20",
+                        "City": "Kamber Ali Khan"
+                    },
+                    {
+
+                        "CityId": "21",
+                        "City": "Mirpur Mathelo"
+                    },
+                    {
+
+                        "CityId": "22",
+                        "City": "Kandhkot"
+                    },
+                    {
+
+                        "CityId": "23",
+                        "City": "Shahdadpur"
+                    },
+                    {
+
+                        "CityId": "24",
+                        "City": "Moro"
+                    },
+                    {
+
+                        "CityId": "25",
+                        "City": "Tando Jam"
+                    },
+                    {
+
+                        "CityId": "26",
+                        "City": "Pano Akil"
+                    },
+                    {
+
+                        "CityId": "27",
+                        "City": "Sanghar"
+                    },
+                    {
+
+                        "CityId": "28",
+                        "City": "Thul"
+                    },
+                    {
+
+                        "CityId": "29",
+                        "City": "Rohri"
+                    },
+                    {
+
+                        "CityId": "30",
+                        "City": "Ratodero"
+                    },
+                    {
+
+                        "CityId": "31",
+                        "City": "Sehwan Sharif"
+                    },
+                    {
+
+                        "CityId": "32",
+                        "City": "Hala"
+                    },
+                    {
+
+                        "CityId": "33",
+                        "City": "Sakrand"
+                    },
+                    {
+
+                        "CityId": "34",
+                        "City": "Matli"
+                    },
+                    {
+
+                        "CityId": "35",
+                        "City": "Kashmore"
+                    },
+                    {
+
+                        "CityId": "36",
+                        "City": "Mehar"
+                    },
+                    {
+
+                        "CityId": "37",
+                        "City": "Thatta"
+                    },
+                    {
+
+                        "CityId": "38",
+                        "City": "Mehrabpur"
+                    },
+                    {
+
+                        "CityId": "39",
+                        "City": "Gambat"
+                    },
+                    {
+
+                        "CityId": "40",
+                        "City": "Khipro"
+                    }
+                ]
+            },
+            {
+                "ProvinceId": "4",
+                "Province": "KPK",
+
+                "cities": [
+                    {
+
+                        "CityId": "1",
+                        "City": "Peshawar"
+                    },
+                    {
+
+                        "CityId": "2",
+                        "City": "Mardan"
+                    },
+                    {
+
+                        "CityId": "3",
+                        "City": "Malakand"
+                    },
+                    {
+
+                        "CityId": "4",
+                        "City": "Swat"
+                    },
+                    {
+
+                        "CityId": "5",
+                        "City": "Mingora"
+                    },
+                    {
+
+                        "CityId": "6",
+                        "City": "Kohat"
+                    },
+                    {
+
+                        "CityId": "7",
+                        "City": "Dera Ismail Khan"
+                    },
+                    {
+
+                        "CityId": "8",
+                        "City": "Hazara"
+                    },
+                    {
+
+                        "CityId": "9",
+                        "City": "Abbottabad"
+                    },
+                    {
+
+                        "CityId": "10",
+                        "City": "Mansehra"
+                    },
+                    {
+
+                        "CityId": "11",
+                        "City": "Swabi"
+                    },
+                    {
+
+                        "CityId": "12",
+                        "City": "Nowshera"
+                    },
+                    {
+
+                        "CityId": "13",
+                        "City": "Kabal"
+                    },
+                    {
+
+                        "CityId": "14",
+                        "City": "Charsadda"
+                    },
+                    {
+
+                        "CityId": "15",
+                        "City": "Barikot"
+                    },
+                    {
+
+                        "CityId": "16",
+                        "City": "Shabqadar"
+                    },
+                    {
+
+                        "CityId": "17",
+                        "City": "Haripur"
+                    },
+                    {
+
+                        "CityId": "18",
+                        "City": "Takht-I-Bahi"
+                    },
+                    {
+
+                        "CityId": "19",
+                        "City": "Paharpur"
+                    },
+                    {
+
+                        "CityId": "20",
+                        "City": "Batkhela"
+                    },
+                    {
+
+                        "CityId": "21",
+                        "City": "Khyber"
+                    },
+                    {
+
+                        "CityId": "22",
+                        "City": "Jamrud"
+                    },
+                    {
+
+                        "CityId": "23",
+                        "City": "Bahrain"
+                    },
+                    {
+
+                        "CityId": "24",
+                        "City": "Bannu"
+                    },
+                    {
+
+                        "CityId": "25",
+                        "City": "Lakki Marwat"
+                    },
+                    {
+
+                        "CityId": "26",
+                        "City": "Pabbi"
+                    },
+                    {
+
+                        "CityId": "27",
+                        "City": "Topi"
+                    },
+                    {
+
+                        "CityId": "28",
+                        "City": "Jehangira"
+                    },
+                    {
+
+                        "CityId": "29",
+                        "City": "Karak"
+                    },
+                    {
+
+                        "CityId": "30",
+                        "City": "Lower Chitral"
+                    },
+                    {
+
+                        "CityId": "31",
+                        "City": "Chitral"
+                    },
+                    {
+
+                        "CityId": "32",
+                        "City": "Hangu"
+                    },
+                    {
+
+                        "CityId": "33",
+                        "City": "Havelian"
+                    },
+                    {
+
+                        "CityId": "34",
+                        "City": "Khwazakhela"
+                    },
+                    {
+
+                        "CityId": "35",
+                        "City": "Khalabat"
+                    },
+                    {
+
+                        "CityId": "36",
+                        "City": "Tank"
+                    },
+                    {
+
+                        "CityId": "37",
+                        "City": "Upper Dir"
+                    },
+                    {
+
+                        "CityId": "38",
+                        "City": "Dir"
+                    },
+                    {
+
+                        "CityId": "39",
+                        "City": "Matta"
+                    },
+                    {
+
+                        "CityId": "40",
+                        "City": "Tordher"
+                    },
+                    {
+
+                        "CityId": "41",
+                        "City": "Lower Dir"
+                    },
+                    {
+
+                        "CityId": "42",
+                        "City": "Timargara"
+                    },
+                    {
+
+                        "CityId": "43",
+                        "City": "Paroa"
+                    },
+                    {
+
+                        "CityId": "44",
+                        "City": "Amangarh"
+                    },
+                    {
+
+                        "CityId": "45",
+                        "City": "Risalpur"
+                    },
+                    {
+
+                        "CityId": "46",
+                        "City": "Nawan Shehr"
+                    },
+                    {
+
+                        "CityId": "47",
+                        "City": "Kurram"
+                    },
+                    {
+
+                        "CityId": "48",
+                        "City": "Sadda"
+                    },
+                    {
+
+                        "CityId": "49",
+                        "City": "Landi Kotal"
+                    },
+                    {
+
+                        "CityId": "50",
+                        "City": "Tangi"
+                    },
+                    {
+
+                        "CityId": "51",
+                        "City": "Akora Khattak"
+                    },
+                    {
+
+                        "CityId": "52",
+                        "City": "Tall"
+                    },
+                    {
+
+                        "CityId": "53",
+                        "City": "Zaida"
+                    },
+                    {
+
+                        "CityId": "54",
+                        "City": "Utmanzai"
+                    }
+                ]
+            },
+            {
+                "ProvinceId": "5",
+                "Province": "Gilgit-Baltistan",
+
+                "cities": [
+                    {
+
+                        "CityId": "1",
+                        "City": "Gilgit"
+                    },
+                    {
+
+                        "CityId": "2",
+                        "City": "Skardu"
+                    },
+                    {
+
+                        "CityId": "3",
+                        "City": "Baltistan"
+                    },
+                    {
+
+                        "CityId": "4",
+                        "City": "Khaplu"
+                    },
+                    {
+
+                        "CityId": "5",
+                        "City": "Ghanche"
+                    },
+                    {
+
+                        "CityId": "6",
+                        "City": "Dambudas"
+                    },
+                    {
+
+                        "CityId": "7",
+                        "City": "Roundu"
+                    },
+                    {
+
+                        "CityId": "8",
+                        "City": "Tolti"
+                    },
+                    {
+
+                        "CityId": "9",
+                        "City": "Kharmang"
+                    },
+                    {
+
+                        "CityId": "10",
+                        "City": "Eidghah"
+                    },
+                    {
+
+                        "CityId": "11",
+                        "City": "Astore"
+                    },
+                    {
+
+                        "CityId": "12",
+                        "City": "Diamer"
+                    },
+                    {
+
+                        "CityId": "13",
+                        "City": "Shigar"
+                    },
+                    {
+
+                        "CityId": "14",
+                        "City": "Nagarkhas"
+                    },
+                    {
+
+                        "CityId": "15",
+                        "City": "Nagar"
+                    },
+                    {
+
+                        "CityId": "16",
+                        "City": "Ishkoman"
+                    },
+                    {
+
+                        "CityId": "17",
+                        "City": "Gupis-Yasin"
+                    },
+                    {
+
+                        "CityId": "18",
+                        "City": "Juglot"
+                    },
+                    {
+
+                        "CityId": "19",
+                        "City": "Danyor"
+                    },
+                    {
+
+                        "CityId": "20",
+                        "City": "Karimabad"
+                    },
+                    {
+
+                        "CityId": "21",
+                        "City": "Hunza"
+                    },
+                    {
+
+                        "CityId": "22",
+                        "City": "Aliabad"
+                    },
+                    {
+
+                        "CityId": "23",
+                        "City": "Chilas"
+                    },
+                    {
+
+                        "CityId": "24",
+                        "City": "Gahkuch"
+                    },
+                    {
+
+                        "CityId": "25",
+                        "City": "Ghizer"
+                    },
+                    {
+
+                        "CityId": "26",
+                        "City": "Tangir"
+                    },
+                    {
+
+                        "CityId": "27",
+                        "City": "Darel"
+                    }
+                ]
+            },
+            {
+                "ProvinceId": "6",
+                "Province": "federal",
+
+                "cities": [
+                    {
+                        "CityId": "1",
+                        "City": "Islamabad"
+                    }
+                ]
+            }
+        ]
+    }
+]
