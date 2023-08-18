@@ -1470,6 +1470,12 @@
             "Province": "Gilgit-Baltistan",
             "CityId": "27",
             "City": "Darel"
+        },
+        {
+            "ProvinceId": "6",
+            "Province": "Federal",
+            "CityId": "1",
+            "City": "Islamabad"
         }
     ]
 }
