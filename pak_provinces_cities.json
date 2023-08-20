@@ -2,7 +2,7 @@
     "province": [
         {
             "id": "1",
-            "name": "Balochistan"
+            "name": "Federal"
         },
         {
             "id": "2",
@@ -18,348 +18,19 @@
         },
         {
             "id": "5",
-            "name": "Gilgit-Baltistan"
+            "name": "Balochistan"
         },
         {
             "id": "6",
-            "name": "Federal"
+            "name": "Gilgit-Baltistan"
         }
+        
     ],
     "cities": [
         {
             "ProvinceId": "1",
             "id": "1",
-            "name": "Quetta"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "1",
-            "name": "Quetta"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "2",
-            "name": "Turbat"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "3",
-            "name": "Kech"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "4",
-            "name": "Makran"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "5",
-            "name": "Khuzdar"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "6",
-            "name": "Qalat"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "7",
-            "name": "Hub"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "8",
-            "name": "Chaman"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "9",
-            "name": "Chaman District"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "10",
-            "name": "Dera Murad Jamali"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "11",
-            "name": "Nasirabad"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "12",
-            "name": "Gwadar"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "13",
-            "name": "Dera Allah Yar"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "14",
-            "name": "Jaffarabad"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "15",
-            "name": "Usta Mohammad"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "16",
-            "name": "Sui Town"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "17",
-            "name": "Dera Bugti"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "18",
-            "name": "Sibi"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "19",
-            "name": "Loralai"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "20",
-            "name": "Zhob"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "21",
-            "name": "Tump"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "22",
-            "name": "Nushki"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "23",
-            "name": "Rakhshan"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "24",
-            "name": "Kharan"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "25",
-            "name": "Chitkan"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "26",
-            "name": "Panjgur"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "27",
-            "name": "Khanozai"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "28",
-            "name": "Pishin"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "29",
-            "name": "Buleda"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "30",
-            "name": "Saranan"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "31",
-            "name": "Zehri"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "32",
-            "name": "Tasp"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "33",
-            "name": "Surab"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "34",
-            "name": "Shaheed Sikandarabad"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "35",
-            "name": "Mastung"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "36",
-            "name": "Qilla Saifullah"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "37",
-            "name": "Pasni"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "38",
-            "name": "Nal"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "39",
-            "name": "Winder"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "40",
-            "name": "Lasbela"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "41",
-            "name": "Uthal"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "42",
-            "name": "Huramzai"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "43",
-            "name": "Muslim Bagh"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "44",
-            "name": "Qilla Abdullah"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "45",
-            "name": "Qila Abdullah"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "46",
-            "name": "Bela"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "47",
-            "name": "Wadh"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "48",
-            "name": "Washuk"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "49",
-            "name": "Awaran"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "50",
-            "name": "Machh"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "51",
-            "name": "Kachhi"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "52",
-            "name": "Jiwani"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "53",
-            "name": "Ormara"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "54",
-            "name": "Kohlu"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "55",
-            "name": "Bhag"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "56",
-            "name": "Dalbandin"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "57",
-            "name": "Chagai"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "58",
-            "name": "Dhadar"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "59",
-            "name": "Musakhel"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "60",
-            "name": "Harnai"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "61",
-            "name": "Dureji"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "62",
-            "name": "Sohbatpur"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "63",
-            "name": "Gajjar Mashkay"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "64",
-            "name": "Barkhan"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "65",
-            "name": "Shahrug"
-        },
-        {
-            "ProvinceId": "1",
-            "id": "66",
-            "name": "Duki"
+            "name": "Islamabad"
         },
         {
             "ProvinceId": "2",
@@ -1124,142 +795,472 @@
         {
             "ProvinceId": "5",
             "id": "1",
-            "name": "Gilgit"
+            "name": "Quetta"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "1",
+            "name": "Quetta"
         },
         {
             "ProvinceId": "5",
             "id": "2",
-            "name": "Skardu"
+            "name": "Turbat"
         },
         {
             "ProvinceId": "5",
             "id": "3",
-            "name": "Baltistan"
+            "name": "Kech"
         },
         {
             "ProvinceId": "5",
             "id": "4",
-            "name": "Khaplu"
+            "name": "Makran"
         },
         {
             "ProvinceId": "5",
             "id": "5",
-            "name": "Ghanche"
+            "name": "Khuzdar"
         },
         {
             "ProvinceId": "5",
             "id": "6",
-            "name": "Dambudas"
+            "name": "Qalat"
         },
         {
             "ProvinceId": "5",
             "id": "7",
-            "name": "Roundu"
+            "name": "Hub"
         },
         {
             "ProvinceId": "5",
             "id": "8",
-            "name": "Tolti"
+            "name": "Chaman"
         },
         {
             "ProvinceId": "5",
             "id": "9",
-            "name": "Kharmang"
+            "name": "Chaman District"
         },
         {
             "ProvinceId": "5",
             "id": "10",
-            "name": "Eidghah"
+            "name": "Dera Murad Jamali"
         },
         {
             "ProvinceId": "5",
             "id": "11",
-            "name": "Astore"
+            "name": "Nasirabad"
         },
         {
             "ProvinceId": "5",
             "id": "12",
-            "name": "Diamer"
+            "name": "Gwadar"
         },
         {
             "ProvinceId": "5",
             "id": "13",
-            "name": "Shigar"
+            "name": "Dera Allah Yar"
         },
         {
             "ProvinceId": "5",
             "id": "14",
-            "name": "Nagarkhas"
+            "name": "Jaffarabad"
         },
         {
             "ProvinceId": "5",
             "id": "15",
-            "name": "Nagar"
+            "name": "Usta Mohammad"
         },
         {
             "ProvinceId": "5",
             "id": "16",
-            "name": "Ishkoman"
+            "name": "Sui Town"
         },
         {
             "ProvinceId": "5",
             "id": "17",
-            "name": "Gupis-Yasin"
+            "name": "Dera Bugti"
         },
         {
             "ProvinceId": "5",
             "id": "18",
-            "name": "Juglot"
+            "name": "Sibi"
         },
         {
             "ProvinceId": "5",
             "id": "19",
-            "name": "Danyor"
+            "name": "Loralai"
         },
         {
             "ProvinceId": "5",
             "id": "20",
-            "name": "Karimabad"
+            "name": "Zhob"
         },
         {
             "ProvinceId": "5",
             "id": "21",
-            "name": "Hunza"
+            "name": "Tump"
         },
         {
             "ProvinceId": "5",
             "id": "22",
-            "name": "Aliabad"
+            "name": "Nushki"
         },
         {
             "ProvinceId": "5",
             "id": "23",
-            "name": "Chilas"
+            "name": "Rakhshan"
         },
         {
             "ProvinceId": "5",
             "id": "24",
-            "name": "Gahkuch"
+            "name": "Kharan"
         },
         {
             "ProvinceId": "5",
             "id": "25",
-            "name": "Ghizer"
+            "name": "Chitkan"
         },
         {
             "ProvinceId": "5",
             "id": "26",
-            "name": "Tangir"
+            "name": "Panjgur"
         },
         {
             "ProvinceId": "5",
             "id": "27",
-            "name": "Darel"
+            "name": "Khanozai"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "28",
+            "name": "Pishin"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "29",
+            "name": "Buleda"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "30",
+            "name": "Saranan"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "31",
+            "name": "Zehri"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "32",
+            "name": "Tasp"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "33",
+            "name": "Surab"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "34",
+            "name": "Shaheed Sikandarabad"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "35",
+            "name": "Mastung"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "36",
+            "name": "Qilla Saifullah"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "37",
+            "name": "Pasni"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "38",
+            "name": "Nal"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "39",
+            "name": "Winder"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "40",
+            "name": "Lasbela"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "41",
+            "name": "Uthal"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "42",
+            "name": "Huramzai"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "43",
+            "name": "Muslim Bagh"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "44",
+            "name": "Qilla Abdullah"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "45",
+            "name": "Qila Abdullah"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "46",
+            "name": "Bela"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "47",
+            "name": "Wadh"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "48",
+            "name": "Washuk"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "49",
+            "name": "Awaran"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "50",
+            "name": "Machh"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "51",
+            "name": "Kachhi"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "52",
+            "name": "Jiwani"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "53",
+            "name": "Ormara"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "54",
+            "name": "Kohlu"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "55",
+            "name": "Bhag"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "56",
+            "name": "Dalbandin"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "57",
+            "name": "Chagai"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "58",
+            "name": "Dhadar"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "59",
+            "name": "Musakhel"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "60",
+            "name": "Harnai"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "61",
+            "name": "Dureji"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "62",
+            "name": "Sohbatpur"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "63",
+            "name": "Gajjar Mashkay"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "64",
+            "name": "Barkhan"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "65",
+            "name": "Shahrug"
+        },
+        {
+            "ProvinceId": "5",
+            "id": "66",
+            "name": "Duki"
         },
         {
             "ProvinceId": "6",
             "id": "1",
-            "name": "Islamabad"
+            "name": "Gilgit"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "2",
+            "name": "Skardu"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "3",
+            "name": "Baltistan"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "4",
+            "name": "Khaplu"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "5",
+            "name": "Ghanche"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "6",
+            "name": "Dambudas"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "7",
+            "name": "Roundu"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "8",
+            "name": "Tolti"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "9",
+            "name": "Kharmang"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "10",
+            "name": "Eidghah"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "11",
+            "name": "Astore"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "12",
+            "name": "Diamer"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "13",
+            "name": "Shigar"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "14",
+            "name": "Nagarkhas"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "15",
+            "name": "Nagar"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "16",
+            "name": "Ishkoman"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "17",
+            "name": "Gupis-Yasin"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "18",
+            "name": "Juglot"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "19",
+            "name": "Danyor"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "20",
+            "name": "Karimabad"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "21",
+            "name": "Hunza"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "22",
+            "name": "Aliabad"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "23",
+            "name": "Chilas"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "24",
+            "name": "Gahkuch"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "25",
+            "name": "Ghizer"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "26",
+            "name": "Tangir"
+        },
+        {
+            "ProvinceId": "6",
+            "id": "27",
+            "name": "Darel"
         }
     ]
 }
