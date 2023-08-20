@@ -799,11 +799,6 @@
         },
         {
             "ProvinceId": "5",
-            "id": "1",
-            "name": "Quetta"
-        },
-        {
-            "ProvinceId": "5",
             "id": "2",
             "name": "Turbat"
         },
